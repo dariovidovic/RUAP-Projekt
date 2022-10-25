@@ -6,7 +6,7 @@ namespace RandomApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Darija Vidovića!");
+            Console.WriteLine("Pozdrav iz aplikacije od Darija Vidovića! index : [010101]");
         }
     }
 }
